@@ -3,6 +3,10 @@ $(document).ready(function() {
     $('.Wraper').hide().fadeIn(1000);
     $('.Menu').fadeIn(4000);
 
+    $('.link').hover(function() {
+        $(this).css('cursor', 'pointer');
+    });
+
     $('#cv').click(function() {
         window.open('https://s3-eu-west-1.amazonaws.com/justin-yang-website/CV.pdf');
     });
@@ -12,6 +16,6 @@ $(document).ready(function() {
     });
 
     $('.#about').click(function() {
-
+        
     });
 });
