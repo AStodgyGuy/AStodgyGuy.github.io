@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('.Menu').hide();
-    $('.Wraper').hide().fadeIn(1000);
-    $('.Menu').fadeIn(4000);
+    $('.Wraper').hide().fadeIn(4000);
+    $('.Menu').fadeIn(6000);
 
     $('.link').hover(function() {
         $(this).css('cursor', 'pointer');
