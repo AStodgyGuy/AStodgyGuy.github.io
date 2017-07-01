@@ -15,7 +15,15 @@ $(document).ready(function() {
         window.open('https://s3-eu-west-1.amazonaws.com/justin-yang-website/Resume.pdf');
     });
 
-    $('.#about').click(function() {
-        
+    $('#about').click(function(e) {
+        $('[data-popup="popup-1"]').fadeIn(350);
+        e.preventDefault();
+    });
+
+    $('[data-popup-close]').on('click', function(e)  {
+        $('[data-popup="popup-1"]').fadeOut(350);
+        e.preventDefault();
     });
 });
+
+
