@@ -8,7 +8,7 @@ $(document).ready(function() {
     });
 
     $('#cv').click(function() {
-        window.open('https://s3-eu-west-1.amazonaws.com/justin-yang-website/CV.pdf');
+        window.open('CV.pdf');
     });
 
     $('#about').click(function(e) {
