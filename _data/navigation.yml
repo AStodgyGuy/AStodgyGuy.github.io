@@ -1,0 +1,7 @@
+main:
+    - title: "About Me"
+      url: /
+    - title: "Projects"
+      url: /projects
+    - title: "Download CV"
+      url: /CV.pdf
