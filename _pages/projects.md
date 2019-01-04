@@ -5,6 +5,7 @@ scope:
 layout: single
 author_profile: true
 permalink: /projects
+title: "Projects"
 ---
 
 This page is a work in progress!

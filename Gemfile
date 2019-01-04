@@ -9,12 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
-
-gem "jekyll", "~> 3.3"
-gem "minimal-mistakes-jekyll", "4.14.1"
+gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -24,8 +22,3 @@ gem "minimal-mistakes-jekyll", "4.14.1"
 #   gem "jemoji"
 #   gem "jekyll-data"
 #   gem "jekyll-include-cache"
-#
-# If you have any other plugins, put them here!
-group :jekyll_plugins do
-  gem "github-pages", ">=190"
-end

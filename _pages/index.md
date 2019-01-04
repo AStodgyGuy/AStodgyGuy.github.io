@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
+title: "About Me"
 ---
 
 I am a third year undergraduate student studying computer science at the University of St Andrews.
