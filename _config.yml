@@ -25,7 +25,7 @@ github_username:  astodgyguy
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
