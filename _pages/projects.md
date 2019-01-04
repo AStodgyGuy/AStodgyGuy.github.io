@@ -7,7 +7,6 @@ author_profile: true
 permalink: /projects
 ---
 
-# Projects
 This page is a work in progress!
 
 ## Enigma Machine

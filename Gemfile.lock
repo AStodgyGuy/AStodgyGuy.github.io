@@ -207,7 +207,7 @@ GEM
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minimal-mistakes-jekyll (4.14.2)
+    minimal-mistakes-jekyll (4.14.1)
       jekyll (~> 3.7)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.10)
@@ -255,9 +255,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
-  jekyll (~> 3.5)
-  minimal-mistakes-jekyll
+  github-pages (>= 190)
+  jekyll (~> 3.3)
+  minimal-mistakes-jekyll (= 4.14.1)
 
 BUNDLED WITH
    2.0.0

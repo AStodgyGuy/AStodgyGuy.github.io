@@ -4,7 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-# About Me
 I am a third year undergraduate student studying computer science at the University of St Andrews.
 
 I am currently serving as the president and club captain of the University of St Andrews Table Tennis Club. I have previously captained the East Kilbride Table Tennis Club and represented the West of Scotland in district competitions.
