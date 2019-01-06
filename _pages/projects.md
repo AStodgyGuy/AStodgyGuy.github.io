@@ -11,7 +11,7 @@ title: "Projects"
 This page is a work in progress!
 
 ## Scattered Light Integrated Collector (SLIC)
-A data analysis tool developed my myself and a fellow computer science student which collected and analysed data from the SLIC machine built by researchers at the University of St Andrews. Code is currently held by the School of Computer Science and the School of Medicine. More information about SLIC can be found [here.](http://medicine.st-andrews.ac.uk/blog/tag/slic/)
+A data analysis tool developed by myself and a fellow computer science student which collected and analysed data from the SLIC machine built by researchers at the University of St Andrews. Code is currently held by the School of Computer Science and the School of Medicine. More information about SLIC can be found [here.](http://medicine.st-andrews.ac.uk/blog/tag/slic/)
 
 ## Enigma Machine
 An enigmal machine built in Java using a Finite State Machine. This can be found on my [Github.](https://github.com/AStodgyGuy/EnigmaFSM)
