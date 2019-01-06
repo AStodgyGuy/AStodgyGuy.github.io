@@ -19,6 +19,9 @@ An enigmal machine built in Java using a Finite State Machine. This can be found
 ## Personal Website
 This website was built using Github Pages and Jekyll. It uses the [Minimal-Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. The code for this website can be found on my [Github.](https://github.com/AStodgyGuy/AStodgyGuy.github.io)
 
+## University of St Andrews Table Tennis Club Website
+This website was built using Github Pages and Jekyll. It uses the [Minimal-Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. You can take a look at it [here] (https://www.ustattc.co.uk). The coded for the website can be found on [Github.](https://github.com/UStATableTennis/UStATableTennis.github.io)
+
 ## Published University Code
 ### First year code
 [CS1003 First year computer science module "Programming With Data" at the University of St Andrews](https://github.com/AStodgyGuy/CS1003) 
