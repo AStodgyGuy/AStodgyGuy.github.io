@@ -52,6 +52,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jyangers"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@astodgyguy"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
