@@ -7,8 +7,12 @@ author_profile: true
 permalink: /projects
 title: "Projects"
 ---
+## RecycleCat: Radar Categorization for Recyclable Waste
+RecycleCat was my final year dissertation project at the University of St Andrews. 
+RecycleCat is a radar-based system which is able to classify 11 different types of recyclable waste. The system was integrated into a bin to demonstrate a new form of waste sorting in the household. The project was awarded a first class mark. 
+
 ## Internship projects
-At Adimo I've been working on developing a new analytics platform powered by ElasticSearch and written in C# and AngularJS. I've also been working with the CTO developing a new tool built in Python that will help clients understand how their products are distributed around their operating region. Finally, I worked on a Telegram Bot for the sales team to use to quickly generate Adimo campaigns to show to prospecting clients, this was built in C#.
+At Adimo I worked on developing a new analytics platform powered by ElasticSearch and written in C# and AngularJS. I also workled closely with the CTO developing a new tool built in Python that will help clients understand how their products are distributed around their operating region. Finally, I worked on a Telegram Bot for the sales team to use to quickly generate Adimo campaigns to show to prospecting clients, this was built in C#.
 
 ## Society Ticketing
 A tool for societies to use to generate tickets with QR codes and send them out. It also includes a QR code reader for the program to read generated tickets and verify that they are authentic tickets. You can find the project [here.](https://github.com/AStodgyGuy/SocietyTicketing)
