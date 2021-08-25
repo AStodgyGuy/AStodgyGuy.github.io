@@ -56,6 +56,9 @@ author:
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@astodgyguy"
 
+# Google Analytics
+google_analytics: UA—111493713-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

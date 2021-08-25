@@ -5,6 +5,8 @@ permalink: /
 title: "About Me"
 ---
 
+{% include analytics.html %}
+
 I am a recent graduate from the University of St Andrews receiving a First Class Honours in Computer Science. 
 
 From September onwards, I will be working at [Vodafone](https://www.vodafone.co.uk/) as a 
