@@ -5,12 +5,9 @@ permalink: /
 title: "About Me"
 ---
 
-{% include analytics.html %}
-
 I am a recent graduate from the University of St Andrews receiving a First Class Honours in Computer Science. 
 
-From September onwards, I will be working at [Vodafone](https://www.vodafone.co.uk/) as a 
-graduate software engineer. 
+From September onwards, I will be working at [Vodafone](https://www.vodafone.co.uk/) as a graduate software engineer. 
 
 I have previously worked at [Adimo](https://adimo.co), [Unviersity of St Andrews School of Computer Science](https://www.st-andrews.ac.uk/computer-science/) and [Emax Systems](https://www.emax-systems.co.uk/).
 
